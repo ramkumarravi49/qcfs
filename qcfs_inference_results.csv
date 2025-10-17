@@ -1,0 +1,4 @@
+model,L,T,accuracy,avg_spikes
+resnet18,16,2,hello,wordl
+resnet18,16,4,hello,wordl
+resnet18,16,8,hello,wordl
